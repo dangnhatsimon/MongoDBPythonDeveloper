@@ -1,0 +1,116 @@
+# Create a Single Field Index
+db.customers.createIndex(
+    {
+        birthdate: 1
+    }
+)
+
+
+# Create a Unique Single Field Index
+db.customers.createIndex(
+    {
+        email: 1
+    },
+    {
+        unique:true
+    }
+)
+
+
+# View the Indexes used in a Collection
+db.customers.getIndexes()
+
+# Check if an index is being used on a query
+# The IXSCAN stage indicates the query is using an index and what index is being selected.
+# The COLLSCAN stage indicates a collection scan is perform, not using any indexes.
+# The FETCH stage indicates documents are being read from the collection.
+# The SORT stage indicates documents are being sorted in memory.
+
+db.customers.explain().find(
+    {
+        birthdate: {
+            $gt:ISODate("1995-08-01")
+        }
+    }
+)
+db.customers.explain()
+    .find(
+        {
+            birthdate: {
+                $gt:ISODate("1995-08-01")
+            }
+        }
+    )
+    .sort(
+        {
+            email:1
+        }
+    )
+
+
+
+# Create a Single field Multikey Index
+db.customers.createIndex(
+    {
+        accounts: 1
+    }
+)
+
+
+# Create a Compound Index
+db.customers.createIndex(
+    {
+        active:1, 
+        birthdate:-1,
+        name:1
+    }
+)
+
+# Order of Fields in a Compound Index
+# The order of the fields matters when creating the index and the sort order.
+# It is recommended to list the fields in the following order: Equality, Sort, and Range.
+# Equality: field/s that matches on a single field value in a query
+# Sort: field/s that orders the results by in a query
+# Range: field/s that the query filter in a range of valid values
+db.customers
+    .find(
+        {
+            birthdate: {
+                $gte:ISODate("1977-01-01")
+            },
+            active:true
+        }
+    )
+    .sort(
+        {
+            birthdate:-1, 
+            name:1
+        }
+    )
+
+# Before deleting it, you want to assess the impact of removing this index on the performance of the query
+db.customers.hideIndex("active_1_birthdate_-1_name_1")
+
+# Delete index by name:
+db.customers.dropIndex(
+    "active_1_birthdate_-1_name_1"
+)
+# Delete index by key:
+db.customers.dropIndex(
+    {
+        active:1,
+        birthdate:-1, 
+        name:1
+    }
+)
+
+# Delete Indexes
+# Delete all the indexes from a collection, with the exception of the default index on _id
+db.customers.dropIndexes()
+
+# Delete a specific list of indexes
+db.collection.dropIndexes(
+    [
+        'index1name', 'index2name', 'index3name'
+    ]
+)

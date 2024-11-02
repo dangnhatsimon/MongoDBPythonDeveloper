@@ -1,0 +1,109 @@
+# The $set operator replaces the value of a field with the specified value.
+# The $push operator appends a specified value to an array.
+# whether you perform an insert or update operation depends on whether the document exists. 
+# In these cases, you can streamline your application logic by using the upsert option updateOne(), replaceOne(), updateMany()
+# https://www.mongodb.com/docs/manual/reference/operator/update/?_ga=2.165275263.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/reference/operator/update/set/?_ga=2.262373964.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/reference/operator/update/push/?_ga=2.262373964.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/write-operations/upsert/?_ga=2.262373964.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/reference/operator/update/?_ga=2.165275263.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/reference/method/db.collection.findAndModify/?_ga=2.265864783.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/reference/method/db.collection.updateMany/?_ga=2.265864783.1947660523.1710724962-263335991.1691382708
+
+db.podcasts.updateOne(
+  {
+    _id: ObjectId("5e8f8f8f8f8f8f8f8f8f8f8"),
+  },
+
+  {
+    $set: {
+      subscribers: 98562,
+    },
+  }
+)
+
+db.podcasts.updateOne(
+  { title: "The Developer Hub" },
+  { $set: { topics: ["databases", "MongoDB"] } },
+  { upsert: true }
+)
+
+db.podcasts.updateOne(
+  { _id: ObjectId("5e8f8f8f8f8f8f8f8f8f8f8") },
+  { $push: { hosts: "Nic Raboy" } }
+)
+
+db.birds.updateOne(
+    {
+        _id: ObjectId('6268413c613e55b82d7065d2')
+    },
+    {
+        $set: {
+            "tags": ["geese", "herbivore", "migration"]
+        }
+    }
+)
+
+db.birds.updateOne(
+    {
+        _id: ObjectId("6268471e613e55b82d7065d7")
+    },
+    {
+        $push: {
+            diet: {
+                $each: ["newts", "opossum", "skunks", "squirrels"]
+            }
+        }
+    }
+)
+
+db.birds.updateOne(
+    {
+        "common_name": "Robin Redbreast"
+    },
+    {
+        $inc: {
+            "sightings": 1
+        },
+        $set: {
+            "last_updated": new Date(),
+        }
+    },
+    {
+        upsert: true
+    }
+)
+
+db.podcasts.findAndModify({
+  query: { _id: ObjectId("6261a92dfee1ff300dc80bf1") },
+  update: { $inc: { subscribers: 1 } },
+  new: true,
+})
+
+db.birds.findAndModify(
+    {
+        query: {"common_name": "Blue Jay"},
+        update: {
+            $inc: {"sightings_count": 1}
+        },
+        new: true
+    }
+)
+
+db.books.updateMany(
+  { publishedDate: { $lt: new Date("2019-01-01") } },
+  { $set: { status: "LEGACY" } }
+)
+
+db.birds.updateMany(
+    {
+        "common_name": {
+            $in: ["Blue Jay", "Grackle"]
+        }
+    },
+    {
+        $set: {
+            "last_seen": ISODate("2022-01-01")
+        }
+    }
+)

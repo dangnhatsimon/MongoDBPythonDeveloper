@@ -1,0 +1,39 @@
+# $and Joins query clauses with a logical AND returns all documents that match the conditions of both clauses.
+# $not Inverts the effect of a query expression and returns documents that do not match the query expression.
+# $nor Joins query clauses with a logical NOR returns all documents that fail to match both clauses.
+# $or Joins query clauses with a logical OR returns all documents that match the conditions of either clause.
+# https://www.mongodb.com/docs/manual/reference/operator/query-logical/?_ga=2.202410577.1947660523.1710724962-263335991.1691382708
+
+use sample_supplies;
+db.sales.find(
+    {
+        $and: [
+            {"purchaseMethod": "Online"},
+            {"couponUsed": true},
+            {"customer.age": {$lte: 25}}
+        ]
+    }
+)
+
+db.sales.find(
+    {
+        $or: [
+            {
+                "items": {
+                    $elemMatch: {
+                        "name": "pens"
+                    }
+                }
+            },
+            {
+                "items": {
+                    $elemMatch: {
+                        "tags": "writing"
+                    }
+                }
+            }
+        ]
+    }
+)
+
+

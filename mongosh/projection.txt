@@ -1,0 +1,70 @@
+# Return all restaurant inspections - business name, result, and _id fields only
+db.inspections.find(
+  { sector: "Restaurant - 818" },
+  { business_name: 1, result: 1 }
+)
+
+# Return all inspections with result of "Pass" or "Warning" - exclude date and zip code
+db.inspections.find(
+  { result: { $in: ["Pass", "Warning"] } },
+  { date: 0, "address.zip": 0 }
+)
+
+# Return all restaurant inspections - business name and result fields only
+db.inspections.find(
+  { sector: "Restaurant - 818" },
+  { business_name: 1, result: 1, _id: 0 }
+)
+
+# https://www.mongodb.com/docs/manual/tutorial/project-fields-from-query-results/?_ga=2.141158002.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/reference/limits/?&_ga=2.141158002.1947660523.1710724962-263335991.1691382708#mongodb-limit-Projection-Restrictions
+
+db.sales.find(
+    {
+        "storeLocation": "Denver"
+    },
+    {
+        "saleDate": 1,
+        "storeLocation": 1,
+        "purchaseMethod": 1,
+        _id: 1
+    }
+)
+
+
+db.sales.find(
+    {
+        $and: [
+            {
+                "customer.age": {
+                    $lt: 30
+                }
+            },
+            {
+                "customer.satisfaction": {
+                    $gt: 4
+                }
+            }
+        ]
+    },
+    {
+        "customer.age": 1,
+        "customer.satisfaction": 1,
+        "saleDate": 1,
+        "storeLocation": 1,
+        _id: 0
+    }
+)
+
+db.sales.find(
+    {
+        "storeLocation": {
+            $in: ["Seattle ", "New York"]
+        }
+    },
+    {
+        "customer": 0,
+        "couponUsed": 0,
+        "purchaseMethod": 0
+    }
+)

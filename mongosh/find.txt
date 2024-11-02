@@ -1,0 +1,32 @@
+# db.collection.find( <query>, <projection>, <options> )
+# Selects documents in a collection or view and returns a cursor to the selected documents.
+
+# The $in operator selects the documents where the value of a field equals any value in the specified array.
+
+# $eq Matches values that are equal to a specified value.
+# $gt Matches values that are greater than a specified value.
+# $gte Matches values that are greater than or equal to a specified value.
+# $in Matches any of the values specified in an array.
+# $lt Matches values that are less than a specified value.
+# $lte Matches values that are less than or equal to a specified value.
+# $ne Matches all values that are not equal to a specified value.
+# $nin Matches none of the values specified in an array.
+
+# https://www.mongodb.com/docs/manual/reference/method/db.collection.find/?_ga=2.202410577.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/reference/operator/query/in/?_ga=2.202410577.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/reference/operator/query-comparison/?_ga=2.202410577.1947660523.1710724962-263335991.1691382708
+
+db.zips.find(
+    {
+        city: { $in: ["PHOENIX", "CHICAGO"] } 
+    }
+)
+
+
+db.sales.find({ "items.price": { $gt: 50}})
+
+db.sales.find({ "items.price": { $lt: 50}})
+
+db.sales.find({ "customer.age": { $lte: 65}})
+
+db.sales.find({ "customer.age": { $gte: 65}})

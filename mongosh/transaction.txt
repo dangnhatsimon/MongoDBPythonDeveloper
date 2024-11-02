@@ -1,0 +1,63 @@
+# https://www.mongodb.com/resources/basics/databases/acid-transactions?_ga=2.255227720.1116864442.1725237344-148058456.1719876568&_gac=1.156630345.1725081506.Cj0KCQjw28W2BhC7ARIsAPerrcLn8fZZPb5JH8Ad_4-a73QZ0nIWAJcT2pRuplR3q-cpUg9NkCq2tt0aAqlAEALw_wcB
+# https://www.mongodb.com/developer/languages/python/python-acid-transactions/?_ga=2.263682892.1116864442.1725237344-148058456.1719876568&_gac=1.227939695.1725081506.Cj0KCQjw28W2BhC7ARIsAPerrcLn8fZZPb5JH8Ad_4-a73QZ0nIWAJcT2pRuplR3q-cpUg9NkCq2tt0aAqlAEALw_wcB#preparation
+
+# ACID transactions in MongoDB are typically used only by applications where values are exchanged between different parties.
+
+# Using a Transaction
+# Multi-document transaction:
+const session = db.getMongo().startSession()
+
+session.startTransaction()
+
+const account = session.getDatabase('< add database name here>').getCollection('<add collection name here>')
+
+//Add database operations like .updateOne() here
+
+session.commitTransaction()
+
+# Aborting a Transaction: roll back the database to its original state, before the transaction was initiated.
+const session = db.getMongo().startSession()
+
+session.startTransaction()
+
+const account = session.getDatabase('< add database name here>').getCollection('<add collection name here>')
+
+//Add database operations like .updateOne() here
+
+session.abortTransaction()
+
+
+
+
+# Example
+const session = db.getMongo().startSession()
+
+session.startTransaction()
+
+const account = session.getDatabase('bank').getCollection('accounts')
+
+account.insertOne({
+  account_id: "MDB454252264",
+  account_holder: "Florence Taylor",
+  account_type: "savings",
+  balance: 100.0,
+  transfers_complete: [],
+  last_updated: new Date()
+})
+account.updateOne( { account_id: "MDB963134500" }, {$inc: { balance: -100.00 }})
+
+session.commitTransaction()
+
+
+# Example
+var session = db.getMongo().startSession()
+
+session.startTransaction()
+
+var account = session.getDatabase('bank').getCollection('accounts')
+
+account.updateOne( { account_id: "MDB740836066" }, {$inc: { balance: 100 }})
+
+account.updateOne( { account_id: "MDB963134500" }, {$inc: { balance: -5 }})
+
+session.abortTransaction()

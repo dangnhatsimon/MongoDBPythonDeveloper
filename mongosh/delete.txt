@@ -1,0 +1,6 @@
+# https://www.mongodb.com/docs/v5.3/reference/method/db.collection.deleteOne/?_ga=2.265864783.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/v5.3/reference/method/db.collection.deleteMany/?_ga=2.265864783.1947660523.1710724962-263335991.1691382708
+
+db.podcasts.deleteOne({ _id: Objectid("6282c9862acb966e76bbf20a") })
+
+db.podcasts.deleteMany({category: "crime"})

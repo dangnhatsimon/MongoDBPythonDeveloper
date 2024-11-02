@@ -1,0 +1,89 @@
+
+db.sightings.aggregate(
+    [
+        {
+            $match: {
+                species_common: 'Eastern Bluebird'
+            }
+        },
+        {
+            $group: {
+                _id: "$location.coordinates",
+                number_of_sightings: {
+                    $count: {}
+                }
+            }
+        }
+    ]
+)
+
+db.sightings.aggregate(
+    [
+        {
+            $sort: {
+                "location.coordinates.1": -1
+            }
+        },
+        {
+            $limit: 4
+        }
+    ]
+)
+
+
+db.sightings.aggregate(
+    [
+        {
+            $project: {
+                _id: 0,
+                species_common: 1,
+                date: 1
+            }
+        }
+    ]
+)
+
+db.sightings.aggregate(
+    [
+        {
+            $set: {
+                class: "bird"
+            }
+        }
+    ]
+)
+
+db.sightings.aggregate(
+    [
+        {
+            $match: {
+                date: {
+                    $gt: ISODate('2022-01-01T00:00:00.000Z'),
+                    $lt: ISODate('2023-01-01T00:00:00.000Z')
+                },
+                species_common: "Eastern Bluebird"
+            }
+        },
+        {
+            $count: "bluebird_sightings_2022"
+        }        
+    ]
+)
+
+
+db.sightings.aggregate(
+    [
+        {
+            $match: {
+                date: {
+                    $gt: ISODate('2022-01-01T00:00:00.000Z'),
+                    $lt: ISODate('2023-01-01T00:00:00.000Z')
+                }
+            }
+        },
+        {
+            $out: "sightings_2022"
+        }
+    ]
+)
+db.sightings_2022.findOne()

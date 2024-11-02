@@ -1,0 +1,11 @@
+# The $elemMatch operator matches documents that contain an array field with at least one element that matches all the specified query criteria.
+# https://www.mongodb.com/docs/manual/reference/operator/query/elemMatch/?_ga=2.202410577.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/tutorial/query-array-of-documents/?&_ga=2.202410577.1947660523.1710724962-263335991.1691382708#combination-of-elements-satisfies-the-criteria
+
+db.sales.find(
+    {
+  items: {
+    $elemMatch: { name: "laptop", price: { $gt: 800 }, quantity: { $gte: 1 } }
+  }
+    }
+)

@@ -1,0 +1,2 @@
+https://learn.mongodb.com/learn/course/mongodb-crud-operations-in-java/conclusion/learn?client=customer&page=2
+https://learn.mongodb.com/learn/course/mongodb-crud-operations-in-python/conclusion/learn?client=customer&page=2

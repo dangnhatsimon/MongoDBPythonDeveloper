@@ -1,0 +1,57 @@
+
+# Return data on all music companies, sorted alphabetically from A to Z.
+db.companies.find({ category_code: "music" }).sort({ name: 1 });
+
+$ Return data on all music companies, sorted alphabetically from A to Z. Ensure consistent sort order
+db.companies.find({ category_code: "music" }).sort({ name: 1, _id: 1 });
+
+# Return the three music companies with the highest number of employees. Ensure consistent sort order.
+db.companies
+  .find({ category_code: "music" })
+  .sort({ number_of_employees: -1, _id: 1 })
+  .limit(3);
+
+# https://www.mongodb.com/docs/manual/reference/method/cursor.sort/?_ga=2.141158002.1947660523.1710724962-263335991.1691382708
+# https://www.mongodb.com/docs/manual/reference/method/cursor.limit/?_ga=2.141158002.1947660523.1710724962-263335991.1691382708
+
+
+
+db.sales
+    .find(
+        {
+
+        }
+    )
+    .sort(
+        {
+            "saleDate": 1
+        }
+    )
+
+db.sales
+    .find(
+        {
+            "purchaseMethod": "Online",
+            "couponUsed": true
+        }
+    )
+    .sort(
+        "saleDate": -1
+    )
+
+db.sales
+    .find(
+        {
+            "storeLocation": "London",
+            "items.name": {
+                $in: ["laptop", "backpack", "printer paper"]
+            }
+        }
+    )
+    .sort(
+        {
+            "saleDate": -1
+        }
+    )
+    .limit(3)
+

@@ -1,0 +1,3225 @@
+[{
+  "_id": "Eastern European",
+  "top_restaurants": [
+    [
+      "Veselka Restaurant",
+      [
+        -73.9871139,
+        40.7290155
+      ]
+    ],
+    [
+      "Teresa'S Resturant",
+      [
+        -73.99624560000001,
+        40.6951645
+      ]
+    ],
+    [
+      "Hungarian Pastry Shop",
+      [
+        -73.9637801,
+        40.8036283
+      ]
+    ],
+    [
+      "Yonah Shimmels Knishes",
+      [
+        -73.9901259,
+        40.7231435
+      ]
+    ],
+    [
+      "Scorpio",
+      [
+        -73.9214745,
+        40.7603878
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Hawaiian",
+  "top_restaurants": [
+    [
+      "Makana",
+      [
+        -73.93600099999999,
+        40.795675
+      ]
+    ],
+    [
+      "General Assembly",
+      [
+        -73.9854351,
+        40.7419304
+      ]
+    ],
+    [
+      "Onomea",
+      [
+        -73.9562856,
+        40.7139315
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Caribbean",
+  "top_restaurants": [
+    [
+      "Shashemene Int'L Restaura",
+      [
+        -73.9246028,
+        40.6522396
+      ]
+    ],
+    [
+      "Western Bakery",
+      [
+        -73.7416329,
+        40.6767449
+      ]
+    ],
+    [
+      "Miss Lily'S 7A",
+      [
+        -73.9837551,
+        40.726019
+      ]
+    ],
+    [
+      "Glenda'S Restaurant",
+      [
+        -73.94994129999999,
+        40.67140699999999
+      ]
+    ],
+    [
+      "Frank'S Soup Bowl",
+      [
+        -73.85914,
+        40.877498
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Southwestern",
+  "top_restaurants": [
+    [
+      "Moe'S Southwest Grill",
+      [
+        -74.1080484,
+        40.5726865
+      ]
+    ],
+    [
+      "Mojave",
+      [
+        -73.91254649999999,
+        40.7745706
+      ]
+    ],
+    [
+      "Venga Fresh Mexican Grill",
+      [
+        -74.12745799999999,
+        40.612988
+      ]
+    ],
+    [
+      "Tri Tip Grill",
+      [
+        -73.9793564,
+        40.7589426
+      ]
+    ],
+    [
+      "The Cardinal",
+      [
+        -73.983149,
+        40.7232879
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Egyptian",
+  "top_restaurants": [
+    [
+      "Kabab Cafe",
+      [
+        -73.91222499999999,
+        40.7677472
+      ]
+    ],
+    [
+      "Mr Falafael Restaurant",
+      [
+        -73.9790246,
+        40.6702673
+      ]
+    ],
+    [
+      "Meena House Cafe",
+      [
+        -74.0215321,
+        40.6335302
+      ]
+    ],
+    [
+      "Casa La Femme",
+      [
+        -74.0081694,
+        40.7340659
+      ]
+    ],
+    [
+      "Horus Too",
+      [
+        -73.99186619999999,
+        40.7612432
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Asian",
+  "top_restaurants": [
+    [
+      "China Grill",
+      [
+        -73.9787406,
+        40.7611474
+      ]
+    ],
+    [
+      "Indo Chine",
+      [
+        -73.992465,
+        40.729258
+      ]
+    ],
+    [
+      "Le Colonial",
+      [
+        -73.968322,
+        40.760905
+      ]
+    ],
+    [
+      "Citrus Bar & Grill",
+      [
+        -73.980368,
+        40.780879
+      ]
+    ],
+    [
+      "Mangez Avec Moi",
+      [
+        -74.0099177,
+        40.7146687
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Pizza",
+  "top_restaurants": [
+    [
+      "Domino'S Pizza",
+      [
+        -73.9791458,
+        40.744328
+      ]
+    ],
+    [
+      "Domino'S Pizza",
+      [
+        -73.9806854,
+        40.7778589
+      ]
+    ],
+    [
+      "Rizzo'S Fine Pizza",
+      [
+        -73.9151096,
+        40.763377
+      ]
+    ],
+    [
+      "Como Pizza",
+      [
+        -73.9395182,
+        40.8422945
+      ]
+    ],
+    [
+      "J&V Famous Pizza",
+      [
+        -73.9896898,
+        40.6199526
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Greek",
+  "top_restaurants": [
+    [
+      "El Greco Diner",
+      [
+        -73.95006049999999,
+        40.5838274
+      ]
+    ],
+    [
+      "Viand Coffee Shop",
+      [
+        -73.970169,
+        40.764834
+      ]
+    ],
+    [
+      "Omonia Cafe",
+      [
+        -73.924072,
+        40.76108900000001
+      ]
+    ],
+    [
+      "Fontana Famous Pizza & Gyro",
+      [
+        -73.782866,
+        40.757529
+      ]
+    ],
+    [
+      "Karavas Place",
+      [
+        -74.0014102,
+        40.7318195
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Portuguese",
+  "top_restaurants": [
+    [
+      "Mateus Restaurant",
+      [
+        -73.732315,
+        40.720725
+      ]
+    ],
+    [
+      "Pao",
+      [
+        -74.0093371,
+        40.7258846
+      ]
+    ],
+    [
+      "A. Churrasqueira Restaurant",
+      [
+        -73.805741,
+        40.697759
+      ]
+    ],
+    [
+      "O Lavrador Restaurant",
+      [
+        -73.80936899999999,
+        40.694406
+      ]
+    ],
+    [
+      "Aldea Restaurant",
+      [
+        -73.993743,
+        40.73878699999999
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Mediterranean",
+  "top_restaurants": [
+    [
+      "Tripoli Restaurant",
+      [
+        -73.9946329,
+        40.690043
+      ]
+    ],
+    [
+      "Pangea Restaurant",
+      [
+        -73.985889,
+        40.730473
+      ]
+    ],
+    [
+      "Solera Restaurant",
+      [
+        -73.96875399999999,
+        40.757204
+      ]
+    ],
+    [
+      "Beyoglu",
+      [
+        -73.95632379999999,
+        40.7755794
+      ]
+    ],
+    [
+      "Uncle Nicks",
+      [
+        -73.9890549,
+        40.763902
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Californian",
+  "top_restaurants": [
+    [
+      "Ellary'S Greens",
+      [
+        -74.003186,
+        40.7302912
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Bagels/Pretzels",
+  "top_restaurants": [
+    [
+      "Hot Bagels",
+      [
+        -73.8740217,
+        40.7135015
+      ]
+    ],
+    [
+      "Puttin On A Bagel",
+      [
+        -74.1064605,
+        40.634613
+      ]
+    ],
+    [
+      "Daniel'S Bagel",
+      [
+        -73.9761439,
+        40.7478596
+      ]
+    ],
+    [
+      "Absolute Bagels",
+      [
+        -73.9673998,
+        40.802516
+      ]
+    ],
+    [
+      "Tal Bagel",
+      [
+        -73.9503367,
+        40.777553
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Italian",
+  "top_restaurants": [
+    [
+      "Philadelhia Grille Express",
+      [
+        -74.03400479999999,
+        40.6127077
+      ]
+    ],
+    [
+      "Isle Of Capri Resturant",
+      [
+        -73.966032,
+        40.762832
+      ]
+    ],
+    [
+      "Marchis Restaurant",
+      [
+        -73.9775552,
+        40.7432016
+      ]
+    ],
+    [
+      "Crystal Room",
+      [
+        -74.0707363,
+        40.59321569999999
+      ]
+    ],
+    [
+      "Forlinis Restaurant",
+      [
+        -73.99950489999999,
+        40.7169224
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Mexican",
+  "top_restaurants": [
+    [
+      "Panchito'S",
+      [
+        -74.001043,
+        40.729795
+      ]
+    ],
+    [
+      "Mexico Lindo Restaurant",
+      [
+        -73.979839,
+        40.739796
+      ]
+    ],
+    [
+      "Casa Pepe",
+      [
+        -74.031688,
+        40.6374532
+      ]
+    ],
+    [
+      "Cuchifrito",
+      [
+        -73.94100100000001,
+        40.798046
+      ]
+    ],
+    [
+      "Mary Ann'S",
+      [
+        -74.00141959999999,
+        40.7408836
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Sandwiches/Salads/Mixed Buffet",
+  "top_restaurants": [
+    [
+      "Lexler Deli",
+      [
+        -73.97534999999999,
+        40.7516269
+      ]
+    ],
+    [
+      "Devon & Blakely",
+      [
+        -73.9815266,
+        40.752244
+      ]
+    ],
+    [
+      "Au Bon Pain",
+      [
+        -73.990494,
+        40.7569545
+      ]
+    ],
+    [
+      "Au Bon Pain",
+      [
+        -73.990494,
+        40.7569545
+      ]
+    ],
+    [
+      "Au Bon Pain",
+      [
+        -73.9848074,
+        40.69341319999999
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Chilean",
+  "top_restaurants": [
+    [
+      "Corwn Fried Chicken And Fish",
+      [
+        -73.9208984,
+        40.66274569999999
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Donuts",
+  "top_restaurants": [
+    [
+      "Dunkin' Donuts",
+      [
+        -73.991495,
+        40.692273
+      ]
+    ],
+    [
+      "Nostrand Donut Shop",
+      [
+        -73.94933739999999,
+        40.6509823
+      ]
+    ],
+    [
+      "Donut Pub",
+      [
+        -73.99987229999999,
+        40.7386361
+      ]
+    ],
+    [
+      "Dunkin' Donuts/Baskin' Robbins",
+      [
+        -73.8153553,
+        40.7394901
+      ]
+    ],
+    [
+      "Dunkin' Donuts",
+      [
+        -83.8842292,
+        30.6928463
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Creole",
+  "top_restaurants": [
+    [
+      "Belvedere Restaurant",
+      [
+        -73.736304,
+        40.7132
+      ]
+    ],
+    [
+      "Chez Macoule Restaurant",
+      [
+        -73.9513659,
+        40.6426492
+      ]
+    ],
+    [
+      "Paradise Venus Restaurant",
+      [
+        -73.9531695,
+        40.6550579
+      ]
+    ],
+    [
+      "Heavenly Fritaille Restaurant",
+      [
+        -73.74636,
+        40.7160749
+      ]
+    ],
+    [
+      "Yolie'S Bar & Restaurant",
+      [
+        -73.9223689,
+        40.6448618
+      ]
+    ]
+  ]
+},
+{
+  "_id": "German",
+  "top_restaurants": [
+    [
+      "Gottscheer Hall",
+      [
+        -73.9056678,
+        40.7066898
+      ]
+    ],
+    [
+      "Zum Stammtisch",
+      [
+        -73.8811834,
+        40.7017759
+      ]
+    ],
+    [
+      "Killmeyer'S Old Bavaria Inn.",
+      [
+        -74.23720960000001,
+        40.5384084
+      ]
+    ],
+    [
+      "Rolf'S German Restaurant",
+      [
+        -73.9834123,
+        40.7379459
+      ]
+    ],
+    [
+      "Hallo Berlin",
+      [
+        -73.9940866,
+        40.7611108
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Bangladeshi",
+  "top_restaurants": [
+    [
+      "Lahore Delicatessen",
+      [
+        -73.99638949999999,
+        40.7247678
+      ]
+    ],
+    [
+      "Dhaka Sweets & Restaurant",
+      [
+        -73.79358549999999,
+        40.7102647
+      ]
+    ],
+    [
+      "Biriyani House",
+      [
+        -73.92122429999999,
+        40.7438551
+      ]
+    ],
+    [
+      "Royal Bangladesh Indian Restaurant",
+      [
+        -73.9866445,
+        40.72631579999999
+      ]
+    ],
+    [
+      "Abdullah Sweets And Restaurant",
+      [
+        -73.979967,
+        40.64289
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Russian",
+  "top_restaurants": [
+    [
+      "Russian Turkish Baths",
+      [
+        -73.98357949999999,
+        40.7281865
+      ]
+    ],
+    [
+      "Russian Samovar",
+      [
+        -73.984752,
+        40.763105
+      ]
+    ],
+    [
+      "National Restaurant & Catering",
+      [
+        -73.9649155,
+        40.5771957
+      ]
+    ],
+    [
+      "Uncle Vanya",
+      [
+        -73.9851034,
+        40.765368
+      ]
+    ],
+    [
+      "Cafe Paris",
+      [
+        -73.9600397,
+        40.5785117
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Pancakes/Waffles",
+  "top_restaurants": [
+    [
+      "Ihop",
+      [
+        -73.8194559,
+        40.8899176
+      ]
+    ],
+    [
+      "Ihop",
+      [
+        -73.90401159999999,
+        40.8803571
+      ]
+    ],
+    [
+      "Ihop",
+      [
+        -73.7402293,
+        40.6356182
+      ]
+    ],
+    [
+      "Ihop",
+      [
+        -73.8092355,
+        40.76449090000001
+      ]
+    ],
+    [
+      "Ihop",
+      [
+        -73.9175575,
+        40.6262933
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Brazilian",
+  "top_restaurants": [
+    [
+      "Churrascaria Plataforma",
+      [
+        -73.9877321,
+        40.7619602
+      ]
+    ],
+    [
+      "Emporium Brasil Restaurant",
+      [
+        -73.9798394,
+        40.7566063
+      ]
+    ],
+    [
+      "Casa",
+      [
+        -74.0047385,
+        40.731475
+      ]
+    ],
+    [
+      "Brazil Grill",
+      [
+        -73.98739599999999,
+        40.7610699
+      ]
+    ],
+    [
+      "Via Brazil",
+      [
+        -73.9893481,
+        40.7603868
+      ]
+    ]
+  ]
+},
+{
+  "_id": "English",
+  "top_restaurants": [
+    [
+      "Tea And Sympathy",
+      [
+        -74.0019453,
+        40.7382932
+      ]
+    ],
+    [
+      "Tartine",
+      [
+        -74.00345709999999,
+        40.73635100000001
+      ]
+    ],
+    [
+      "The Park Slope Chipshop",
+      [
+        -73.9846676,
+        40.6707717
+      ]
+    ],
+    [
+      "Pound And Pence",
+      [
+        -74.009407,
+        40.7088048
+      ]
+    ],
+    [
+      "Chip Shop",
+      [
+        -73.9957348,
+        40.6908744
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Bakery",
+  "top_restaurants": [
+    [
+      "Morris Park Bake Shop",
+      [
+        -73.856077,
+        40.848447
+      ]
+    ],
+    [
+      "Olive'S",
+      [
+        -73.9998042,
+        40.7251256
+      ]
+    ],
+    [
+      "Tropical House Baking Co.",
+      [
+        -73.933605,
+        40.669476
+      ]
+    ],
+    [
+      "Cousin John'S Cafe And Bakery",
+      [
+        -73.975144,
+        40.675441
+      ]
+    ],
+    [
+      "Victory Sweet Shop",
+      [
+        -73.90539919999999,
+        40.7730596
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Juice, Smoothies, Fruit Salads",
+  "top_restaurants": [
+    [
+      "Gold'S Gym",
+      [
+        -73.84007910000001,
+        40.6622634
+      ]
+    ],
+    [
+      "Health King",
+      [
+        -74.0086743,
+        40.7094986
+      ]
+    ],
+    [
+      "Health King",
+      [
+        -73.98881639999999,
+        40.7538172
+      ]
+    ],
+    [
+      "Juice Generation",
+      [
+        -73.99078899999999,
+        40.760389
+      ]
+    ],
+    [
+      "Juicy Lucy",
+      [
+        -73.98443,
+        40.725358
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Nuts/Confectionary",
+  "top_restaurants": [
+    [
+      "Popbar",
+      [
+        -74.002297,
+        40.730906
+      ]
+    ],
+    [
+      "Chestnuts King",
+      [
+        -73.829342,
+        40.7570059
+      ]
+    ],
+    [
+      "Flavaboom",
+      [
+        -92.72874879999999,
+        41.7461464
+      ]
+    ],
+    [
+      "Auntie Anne'S",
+      [
+        -73.975526,
+        40.68380579999999
+      ]
+    ],
+    [
+      "Laduree",
+      [
+        -73.9663868,
+        40.7707621
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Middle Eastern",
+  "top_restaurants": [
+    [
+      "Sally & George'S Place",
+      [
+        -74.02853089999999,
+        40.6289779
+      ]
+    ],
+    [
+      "Cleopatra'S Needle",
+      [
+        -73.9732585,
+        40.79229249999999
+      ]
+    ],
+    [
+      "Salam Cafe & Rest",
+      [
+        -73.9979819,
+        40.73669640000001
+      ]
+    ],
+    [
+      "Rainbow Falafel",
+      [
+        -73.9910292,
+        40.7372614
+      ]
+    ],
+    [
+      "Pita City Falafel",
+      [
+        -73.996996,
+        40.742737
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Hotdogs/Pretzels",
+  "top_restaurants": [
+    [
+      "Amc Theatres 19Th Street East",
+      [
+        -73.9896868,
+        40.738583
+      ]
+    ],
+    [
+      "Ny Skyride",
+      [
+        -93.2069217,
+        43.14769159999999
+      ]
+    ],
+    [
+      "Carousel For All Children",
+      [
+        -74.15836019999999,
+        40.6036015
+      ]
+    ],
+    [
+      "Auntie Annie'S",
+      [
+        -73.77813909999999,
+        40.6413111
+      ]
+    ],
+    [
+      "Fy Theater",
+      [
+        -73.99426609999999,
+        40.7508707
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Czech",
+  "top_restaurants": [
+    [
+      "Koliba Restaurant",
+      [
+        -73.9124705,
+        40.7741025
+      ]
+    ],
+    [
+      "Milan'S Restaurant",
+      [
+        -73.9942851,
+        40.6607347
+      ]
+    ],
+    [
+      "Bohemian Beer Garden",
+      [
+        -73.915595,
+        40.772838
+      ]
+    ],
+    [
+      "Hospoda",
+      [
+        -73.95648039999999,
+        40.76908110000001
+      ]
+    ],
+    [
+      "Olde Prague Tavern",
+      [
+        -73.921329,
+        40.767445
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Irish",
+  "top_restaurants": [
+    [
+      "Dj Reynolds Pub And Restaurant",
+      [
+        -73.98513559999999,
+        40.7676919
+      ]
+    ],
+    [
+      "Mcsorley'S Old Ale House",
+      [
+        -73.9896713,
+        40.7287978
+      ]
+    ],
+    [
+      "Dorrian'S Red Hand Restaurant",
+      [
+        -73.952449,
+        40.776325
+      ]
+    ],
+    [
+      "Moran'S Chelsea",
+      [
+        -74.0056649,
+        40.7452371
+      ]
+    ],
+    [
+      "Killarney Rose",
+      [
+        -74.0086833,
+        40.7052024
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Continental",
+  "top_restaurants": [
+    [
+      "Lorenzo & Maria'S",
+      [
+        -73.95685019999999,
+        40.7753401
+      ]
+    ],
+    [
+      "Dining Room",
+      [
+        -48.9424,
+        -16.3550032
+      ]
+    ],
+    [
+      "Austin'S Steak & Ale House",
+      [
+        -73.830072,
+        40.709375
+      ]
+    ],
+    [
+      "Princess Manor",
+      [
+        -73.9501963,
+        40.7237308
+      ]
+    ],
+    [
+      "Cafe Champignon",
+      [
+        -73.9966194,
+        40.7433635
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Cajun",
+  "top_restaurants": [
+    [
+      "Bayou",
+      [
+        -74.0683798,
+        40.6168076
+      ]
+    ],
+    [
+      "Big Easy Cajun",
+      [
+        -73.8706606,
+        40.7342757
+      ]
+    ],
+    [
+      "G & L Cajun Grill",
+      [
+        -73.7997187,
+        40.7042655
+      ]
+    ],
+    [
+      "Cajun Cafe & Grill",
+      [
+        -74.1660553,
+        40.5823983
+      ]
+    ],
+    [
+      "Soco Restaurant",
+      [
+        -73.964513,
+        40.693846
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Iranian",
+  "top_restaurants": [
+    [
+      "Ravagh Persian Grill",
+      [
+        -73.985433,
+        40.74574
+      ]
+    ],
+    [
+      "Ravagh Persian Grill",
+      [
+        -73.98576299999999,
+        40.7274269
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Chinese/Japanese",
+  "top_restaurants": [
+    [
+      "China Glatt",
+      [
+        -73.98924699999999,
+        40.637366
+      ]
+    ],
+    [
+      "Empire Szechuan Kyoto",
+      [
+        -73.9800884,
+        40.77527
+      ]
+    ],
+    [
+      "Hunan Delight Matsuya",
+      [
+        -73.9512757,
+        40.7707045
+      ]
+    ],
+    [
+      "Sake",
+      [
+        -73.9615235,
+        40.6062822
+      ]
+    ],
+    [
+      "Jade Bamboo",
+      [
+        -73.8727646,
+        40.7181302
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Australian",
+  "top_restaurants": [
+    [
+      "Tuck Shop",
+      [
+        -73.98879699999999,
+        40.723711
+      ]
+    ],
+    [
+      "Sheep Station",
+      [
+        -73.9813786,
+        40.6792898
+      ]
+    ],
+    [
+      "Nelson Blue",
+      [
+        -74.0016978,
+        40.7075433
+      ]
+    ],
+    [
+      "The Australian",
+      [
+        -73.98392609999999,
+        40.7511857
+      ]
+    ],
+    [
+      "The Dub Pie Shop",
+      [
+        -73.97998869999999,
+        40.66035900000001
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Jewish/Kosher",
+  "top_restaurants": [
+    [
+      "Kosher Island",
+      [
+        -74.1377286,
+        40.6119572
+      ]
+    ],
+    [
+      "Tov Kosher Kitchen",
+      [
+        -73.8601152,
+        40.7311739
+      ]
+    ],
+    [
+      "Seuda Foods",
+      [
+        -73.9653967,
+        40.6064339
+      ]
+    ],
+    [
+      "Kosher Bagel Hole",
+      [
+        -73.9615132,
+        40.6253268
+      ]
+    ],
+    [
+      "Ben-Best Deli & Restaurant",
+      [
+        -73.86137149999999,
+        40.7293762
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Polish",
+  "top_restaurants": [
+    [
+      "Polish National Home",
+      [
+        -73.94839189999999,
+        40.7224876
+      ]
+    ],
+    [
+      "Irene'S Place",
+      [
+        -73.95097100000001,
+        40.723595
+      ]
+    ],
+    [
+      "Little Poland Restaurant",
+      [
+        -73.9853684,
+        40.7311278
+      ]
+    ],
+    [
+      "Christina'S Restaurant",
+      [
+        -73.954054,
+        40.729085
+      ]
+    ],
+    [
+      "Lomzymianka Restaurant",
+      [
+        -73.9508413,
+        40.7243234
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Scandinavian",
+  "top_restaurants": [
+    [
+      "Smorgas Chef/ Crepes Du Nord",
+      [
+        -74.0103057,
+        40.7044404
+      ]
+    ],
+    [
+      "Aquavit",
+      [
+        -73.9720839,
+        40.7608582
+      ]
+    ],
+    [
+      "Smorgas Chef At Scandinavia House",
+      [
+        -73.9799597,
+        40.7494442
+      ]
+    ],
+    [
+      "Fika",
+      [
+        -74.0108985,
+        40.7035292
+      ]
+    ],
+    [
+      "Fika",
+      [
+        -74.01056109999999,
+        40.7237394
+      ]
+    ]
+  ]
+},
+{
+  "_id": "American",
+  "top_restaurants": [
+    [
+      "Riviera Caterer",
+      [
+        -73.98241999999999,
+        40.579505
+      ]
+    ],
+    [
+      "Brunos On The Boulevard",
+      [
+        -73.8803827,
+        40.7643124
+      ]
+    ],
+    [
+      "Regina Caterers",
+      [
+        -74.00528899999999,
+        40.628886
+      ]
+    ],
+    [
+      "Wild Asia",
+      [
+        -73.8786113,
+        40.8502883
+      ]
+    ],
+    [
+      "C & C Catering Service",
+      [
+        -73.9973325,
+        40.61174889999999
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Salads",
+  "top_restaurants": [
+    [
+      "Chop'T",
+      [
+        -73.99097309999999,
+        40.7372758
+      ]
+    ],
+    [
+      "Chop'T",
+      [
+        -73.972308,
+        40.761132
+      ]
+    ],
+    [
+      "Chop'T",
+      [
+        -73.9702105,
+        40.7572389
+      ]
+    ],
+    [
+      "Just Salad",
+      [
+        -73.98852699999999,
+        40.752344
+      ]
+    ],
+    [
+      "Just Salad",
+      [
+        -73.9741793,
+        40.7575374
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Chinese",
+  "top_restaurants": [
+    [
+      "May May Kitchen",
+      [
+        -73.871194,
+        40.6730975
+      ]
+    ],
+    [
+      "Ho Mei Restaurant",
+      [
+        -73.8642349,
+        40.75356
+      ]
+    ],
+    [
+      "Happy Garden",
+      [
+        -73.8893654,
+        40.81376179999999
+      ]
+    ],
+    [
+      "Happy Garden",
+      [
+        -73.8941893,
+        40.8634684
+      ]
+    ],
+    [
+      "Golden Pavillion",
+      [
+        -73.92701509999999,
+        40.6620192
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Not Listed/Not Applicable",
+  "top_restaurants": [
+    [
+      "The Lark'S Nest",
+      [
+        -73.86697,
+        40.89794699999999
+      ]
+    ],
+    [
+      "Spanky &  Darla'S",
+      [
+        -73.984872,
+        40.7278223
+      ]
+    ],
+    [
+      "Vnt Catering Hall",
+      [
+        -73.8998301,
+        40.8486769
+      ]
+    ],
+    [
+      "Nebu Hookah Lounge",
+      [
+        -73.86222090000001,
+        40.6917121
+      ]
+    ],
+    [
+      "Off The Hookah",
+      [
+        -73.7159257,
+        40.73542399999999
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Pakistani",
+  "top_restaurants": [
+    [
+      "Roti Boti Restaurant",
+      [
+        -73.9260989,
+        40.7720088
+      ]
+    ],
+    [
+      "Bukhari Restaurant",
+      [
+        -73.9660287,
+        40.6309077
+      ]
+    ],
+    [
+      "Pakiza Restaurant",
+      [
+        -73.96713299999999,
+        40.632363
+      ]
+    ],
+    [
+      "Gourmet Sweets",
+      [
+        -73.96598139999999,
+        40.6306868
+      ]
+    ],
+    [
+      "Indo-Pak Halal Restaurant",
+      [
+        -73.9399794,
+        40.7943144
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Delicatessen",
+  "top_restaurants": [
+    [
+      "Wilken'S Fine Food",
+      [
+        -73.9068506,
+        40.6199034
+      ]
+    ],
+    [
+      "Nordic Delicacies",
+      [
+        -74.0259567,
+        40.6353674
+      ]
+    ],
+    [
+      "Bully'S Deli",
+      [
+        -73.9925306,
+        40.7309346
+      ]
+    ],
+    [
+      "Sal'S Deli",
+      [
+        -73.839297,
+        40.78147
+      ]
+    ],
+    [
+      "Steve Chu'S Deli & Grocery",
+      [
+        -73.94024739999999,
+        40.7623288
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Chinese/Cuban",
+  "top_restaurants": [
+    [
+      "Sabrosura Restaurant",
+      [
+        -73.8507489,
+        40.832069
+      ]
+    ],
+    [
+      "La Nueva Victoria Restaurant",
+      [
+        -73.971952,
+        40.79371
+      ]
+    ],
+    [
+      "La Dinastia",
+      [
+        -73.9394471,
+        40.8431703
+      ]
+    ],
+    [
+      "Americas Restorante",
+      [
+        -73.8624059,
+        40.749405
+      ]
+    ],
+    [
+      "New Pabellon De Oro Restaurant",
+      [
+        -73.88006589999999,
+        40.8285315
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Turkish",
+  "top_restaurants": [
+    [
+      "The Country Cafe",
+      [
+        -74.0085357,
+        40.70620539999999
+      ]
+    ],
+    [
+      "Turkish Kitchen",
+      [
+        -73.981366,
+        40.741888
+      ]
+    ],
+    [
+      "Uskudar Restaurant",
+      [
+        -73.95796530000001,
+        40.7697258
+      ]
+    ],
+    [
+      "Pasha Turkish Restaurant",
+      [
+        -73.9788293,
+        40.7765158
+      ]
+    ],
+    [
+      "Sahara Restaurant",
+      [
+        -73.9610505,
+        40.5999343
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Moroccan",
+  "top_restaurants": [
+    [
+      "Cafe Mogador",
+      [
+        -73.98431699999999,
+        40.727441
+      ]
+    ],
+    [
+      "Barbes",
+      [
+        -73.9774978,
+        40.7471304
+      ]
+    ],
+    [
+      "Lybane Bar Restaurant",
+      [
+        -73.9888296,
+        40.7591212
+      ]
+    ],
+    [
+      "Le Souk",
+      [
+        -73.9993396,
+        40.72788010000001
+      ]
+    ],
+    [
+      "Little Morocco Restaurant",
+      [
+        -73.9113752,
+        40.7680135
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Barbecue",
+  "top_restaurants": [
+    [
+      "Dallas Bbq",
+      [
+        -73.9874091,
+        40.72863479999999
+      ]
+    ],
+    [
+      "Dallas Bbq",
+      [
+        -73.960011,
+        40.7700744
+      ]
+    ],
+    [
+      "Virgil'S Bbq",
+      [
+        -73.98512830000001,
+        40.7567841
+      ]
+    ],
+    [
+      "The Barbecue Pit",
+      [
+        -73.8977781,
+        40.9052826
+      ]
+    ],
+    [
+      "Dallas Bbq",
+      [
+        -73.9404009,
+        40.8395605
+      ]
+    ]
+  ]
+},
+{
+  "_id": "African",
+  "top_restaurants": [
+    [
+      "African Terrace",
+      [
+        -73.8786113,
+        40.8502883
+      ]
+    ],
+    [
+      "Madiba",
+      [
+        -73.9717845,
+        40.6897199
+      ]
+    ],
+    [
+      "Africana Restaurant",
+      [
+        -73.8057078,
+        40.6948408
+      ]
+    ],
+    [
+      "Ebe Ye Yie African Restaurant",
+      [
+        -73.9025083,
+        40.8603246
+      ]
+    ],
+    [
+      "African Maquis La Plantation",
+      [
+        -73.9277649,
+        40.81103
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Other",
+  "top_restaurants": [
+    [
+      "Walter'S Bar",
+      [
+        -73.995856,
+        40.7493849
+      ]
+    ],
+    [
+      "Novecento",
+      [
+        -74.0033499,
+        40.72255
+      ]
+    ],
+    [
+      "Johnny'S O'S",
+      [
+        -73.85258,
+        40.833713
+      ]
+    ],
+    [
+      "Sing Sing Karaoke",
+      [
+        -73.984478,
+        40.7251823
+      ]
+    ],
+    [
+      "Chikalicious Dessert Bar",
+      [
+        -73.98632649999999,
+        40.7296961
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Soups",
+  "top_restaurants": [
+    [
+      "Wichcraft Express",
+      [
+        -73.9832326,
+        40.7535965
+      ]
+    ],
+    [
+      "Original Soupman Of Staten Island",
+      [
+        -74.1642931,
+        40.59091120000001
+      ]
+    ],
+    [
+      "The Original Soupman",
+      [
+        -73.9833455,
+        40.7654483
+      ]
+    ],
+    [
+      "Peasant Stock",
+      [
+        -73.98744649999999,
+        40.7193235
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Sandwiches",
+  "top_restaurants": [
+    [
+      "White Castle",
+      [
+        -73.9605993,
+        40.6805698
+      ]
+    ],
+    [
+      "Subway",
+      [
+        -73.9727279,
+        40.7928619
+      ]
+    ],
+    [
+      "Roy Rogers",
+      [
+        -73.99099149999999,
+        40.7499318
+      ]
+    ],
+    [
+      "Le Pain Quotidien",
+      [
+        -73.9593889,
+        40.779726
+      ]
+    ],
+    [
+      "Food Fair Deli & Pizza",
+      [
+        -73.9978684,
+        40.7541913
+      ]
+    ]
+  ]
+},
+{
+  "_id": "French",
+  "top_restaurants": [
+    [
+      "Tout Va Bien",
+      [
+        -73.98621899999999,
+        40.763406
+      ]
+    ],
+    [
+      "La Grenouille",
+      [
+        -73.97557069999999,
+        40.7596796
+      ]
+    ],
+    [
+      "Le Perigord",
+      [
+        -73.9646207,
+        40.7550069
+      ]
+    ],
+    [
+      "La Bonne Soupe Bistro",
+      [
+        -73.977035,
+        40.762307
+      ]
+    ],
+    [
+      "Raouls",
+      [
+        -74.002139,
+        40.7261357
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Creole/Cajun",
+  "top_restaurants": [
+    [
+      "Popeyes",
+      [
+        -73.93532069999999,
+        40.6967637
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Soul Food",
+  "top_restaurants": [
+    [
+      "Mitchell'S Restaurant",
+      [
+        -73.9681178,
+        40.678776
+      ]
+    ],
+    [
+      "Sam'S Restaurant",
+      [
+        -73.92631920000001,
+        40.8196491
+      ]
+    ],
+    [
+      "Enid'S",
+      [
+        -73.94978379999999,
+        40.722396
+      ]
+    ],
+    [
+      "Manna Restaurant Ii",
+      [
+        -73.94310449999999,
+        40.8108763
+      ]
+    ],
+    [
+      "Sylvia'S Restaurant",
+      [
+        -73.9446889,
+        40.8087276
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Steak",
+  "top_restaurants": [
+    [
+      "Peter Luger Steakhouse",
+      [
+        -73.96252129999999,
+        40.7098035
+      ]
+    ],
+    [
+      "Donohue'S Steak House",
+      [
+        -73.965531,
+        40.765431
+      ]
+    ],
+    [
+      "Sammy'S Steakhouse",
+      [
+        153.1628795,
+        -28.0168595
+      ]
+    ],
+    [
+      "Sparks Steak House",
+      [
+        -73.97212999999999,
+        40.7528838
+      ]
+    ],
+    [
+      "Keens Steakhouse",
+      [
+        -73.98646339999999,
+        40.7507174
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Vegetarian",
+  "top_restaurants": [
+    [
+      "Angelica Kitchen",
+      [
+        -73.985568,
+        40.7307496
+      ]
+    ],
+    [
+      "Candle Cafe",
+      [
+        -73.9589834,
+        40.77141839999999
+      ]
+    ],
+    [
+      "Village Yogurt",
+      [
+        -92.7292446,
+        41.7461746
+      ]
+    ],
+    [
+      "Village Natural",
+      [
+        -74.000252,
+        40.7356228
+      ]
+    ],
+    [
+      "Strictly Vegetarian",
+      [
+        -73.9564939,
+        40.650368
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Korean",
+  "top_restaurants": [
+    [
+      "Kang Suh Korean Restaurant",
+      [
+        -73.9879627,
+        40.7478473
+      ]
+    ],
+    [
+      "Han Bat Restaurant",
+      [
+        -73.9862347,
+        40.75015459999999
+      ]
+    ],
+    [
+      "Han Gawi",
+      [
+        -73.98480219999999,
+        40.746541
+      ]
+    ],
+    [
+      "Mill Korean Restaurant",
+      [
+        -73.9658571,
+        40.8061666
+      ]
+    ],
+    [
+      "E-Dah Korean Bbq Lounge",
+      [
+        -73.8051716,
+        40.7627509
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Pizza/Italian",
+  "top_restaurants": [
+    [
+      "New Park Pizzeria & Restaurant",
+      [
+        -73.840437,
+        40.6627235
+      ]
+    ],
+    [
+      "Joe & Pat'S Pizzeria",
+      [
+        -74.1220973,
+        40.6129407
+      ]
+    ],
+    [
+      "Denino'S Pizzeria Tavern",
+      [
+        -74.1402105,
+        40.6301893
+      ]
+    ],
+    [
+      "Fascati'S Pizzeria",
+      [
+        -73.9927131,
+        40.6984887
+      ]
+    ],
+    [
+      "Da Vinci Pizza",
+      [
+        -73.9907801,
+        40.6188665
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Vietnamese/Cambodian/Malaysia",
+  "top_restaurants": [
+    [
+      "Thai Son",
+      [
+        -73.9995899,
+        40.7168015
+      ]
+    ],
+    [
+      "Pho Bac Vietnamese Seafood Cuisine",
+      [
+        -73.88143509999999,
+        40.7412552
+      ]
+    ],
+    [
+      "Pho Bang Restaurant",
+      [
+        -73.996577,
+        40.719515
+      ]
+    ],
+    [
+      "Nha-Trang Centre Vietnam Restaurant",
+      [
+        -74.000254,
+        40.7172727
+      ]
+    ],
+    [
+      "O-Mai",
+      [
+        -74.0025903,
+        40.7443077
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Peruvian",
+  "top_restaurants": [
+    [
+      "El Anzuelo Fino Restaurant",
+      [
+        -73.84760779999999,
+        40.694968
+      ]
+    ],
+    [
+      "Don Alex Restaurant",
+      [
+        -73.87207699999999,
+        40.7511107
+      ]
+    ],
+    [
+      "Pio Pio",
+      [
+        -73.97125539999999,
+        40.7928951
+      ]
+    ],
+    [
+      "Pio Pio Express",
+      [
+        -73.946996,
+        40.779584
+      ]
+    ],
+    [
+      "Mancora",
+      [
+        -73.9863568,
+        40.7266041
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Armenian",
+  "top_restaurants": [
+    [
+      "The Malt House",
+      [
+        -73.9993545,
+        40.7286288
+      ]
+    ],
+    [
+      "Bungalo",
+      [
+        -73.9242556,
+        40.7616841
+      ]
+    ],
+    [
+      "Brgr",
+      [
+        -73.9938411,
+        40.7460955
+      ]
+    ],
+    [
+      "Dippin Dots Kiosk-Ts",
+      [
+        -73.8786113,
+        40.8502883
+      ]
+    ],
+    [
+      "Potbelly Sandwich Shop",
+      [
+        -73.97424629999999,
+        40.7521067
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Seafood",
+  "top_restaurants": [
+    [
+      "Lenny'S Clam Bar",
+      [
+        -73.83856999999999,
+        40.655669
+      ]
+    ],
+    [
+      "One If By Land Two If By Sea",
+      [
+        -74.00259299999999,
+        40.7324849
+      ]
+    ],
+    [
+      "Oyster Bar",
+      [
+        -73.97705599999999,
+        40.752998
+      ]
+    ],
+    [
+      "Seashore Restaurant",
+      [
+        -73.790804,
+        40.8541848
+      ]
+    ],
+    [
+      "Johnny'S Reef Restaurant",
+      [
+        -73.7826735,
+        40.8377713
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Indian",
+  "top_restaurants": [
+    [
+      "Mughlai Restaurant",
+      [
+        -73.977597,
+        40.779593
+      ]
+    ],
+    [
+      "Agra Restaurant",
+      [
+        -73.96643449999999,
+        40.7641697
+      ]
+    ],
+    [
+      "Annam Braham Restaurant",
+      [
+        -73.80112059999999,
+        40.7128278
+      ]
+    ],
+    [
+      "Gandhi",
+      [
+        -73.9864626,
+        40.7266739
+      ]
+    ],
+    [
+      "India Passage Restaurant",
+      [
+        -74.0272951,
+        40.6318285
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Fruits/Vegetables",
+  "top_restaurants": [
+    [
+      "Mini Cafe",
+      [
+        -73.96451119999999,
+        40.8015048
+      ]
+    ],
+    [
+      "Tropical Smoochies",
+      [
+        -73.9033419,
+        40.8586157
+      ]
+    ],
+    [
+      "The Juice Bar",
+      [
+        -74.1660553,
+        40.5823983
+      ]
+    ],
+    [
+      "The King",
+      [
+        -73.8280841,
+        40.766013
+      ]
+    ],
+    [
+      "Scandal",
+      [
+        -73.81437000000001,
+        40.762199
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
+  "top_restaurants": [
+    [
+      "Seville Restaurant",
+      [
+        -74.00310999999999,
+        40.7348888
+      ]
+    ],
+    [
+      "Emilio Iii Bar",
+      [
+        -73.8682701,
+        40.745683
+      ]
+    ],
+    [
+      "Marbella Restaurant",
+      [
+        -73.76078199999999,
+        40.761876
+      ]
+    ],
+    [
+      "El Pote Espanol",
+      [
+        -73.9735762,
+        40.74754
+      ]
+    ],
+    [
+      "Victor'S Cafe",
+      [
+        -73.9840766,
+        40.7628868
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Café/Coffee/Tea",
+  "top_restaurants": [
+    [
+      "Mee Sum Coffee Shop",
+      [
+        -73.9983,
+        40.715051
+      ]
+    ],
+    [
+      "Lulu'S Coffee Shop",
+      [
+        -73.8513114,
+        40.8316981
+      ]
+    ],
+    [
+      "Terrace Cafe",
+      [
+        -73.8786113,
+        40.8502883
+      ]
+    ],
+    [
+      "Steve'S Coffee Shop",
+      [
+        -91.5971285,
+        41.6823902
+      ]
+    ],
+    [
+      "Cafe Capri",
+      [
+        -73.94523509999999,
+        40.7177182
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Spanish",
+  "top_restaurants": [
+    [
+      "Spain Restaurant & Bar",
+      [
+        -73.9979214,
+        40.7371344
+      ]
+    ],
+    [
+      "Tio Pepe",
+      [
+        -74.0016583,
+        40.7319679
+      ]
+    ],
+    [
+      "La Fusta Restaurant",
+      [
+        -73.8845166,
+        40.744772
+      ]
+    ],
+    [
+      "El Charro Espanol",
+      [
+        -74.00065800000002,
+        40.735114
+      ]
+    ],
+    [
+      "Malaga Restaurant",
+      [
+        -73.9550129,
+        40.768019
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Chicken",
+  "top_restaurants": [
+    [
+      "Harriet'S Kitchen",
+      [
+        -73.976112,
+        40.786714
+      ]
+    ],
+    [
+      "Texas Rotisserie",
+      [
+        -74.0061936,
+        40.7092038
+      ]
+    ],
+    [
+      "Mom'S Fried Chicken",
+      [
+        -73.91471,
+        40.8335421
+      ]
+    ],
+    [
+      "La Casa Del Pollo Restaurant",
+      [
+        -73.8789718,
+        40.7483467
+      ]
+    ],
+    [
+      "Popeyes Chicken & Biscuits",
+      [
+        -73.9521974,
+        40.81086920000001
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Hamburgers",
+  "top_restaurants": [
+    [
+      "Wendy'S",
+      [
+        -73.961704,
+        40.662942
+      ]
+    ],
+    [
+      "White Castle",
+      [
+        -73.9634876,
+        40.6940001
+      ]
+    ],
+    [
+      "Mcdonald'S",
+      [
+        -73.8618426,
+        40.6797488
+      ]
+    ],
+    [
+      "Mcdonald'S",
+      [
+        -73.95802549999999,
+        40.6487475
+      ]
+    ],
+    [
+      "Mcdonald'S",
+      [
+        -73.9808063,
+        40.6895078
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Ice Cream, Gelato, Yogurt, Ices",
+  "top_restaurants": [
+    [
+      "Taste The Tropics Ice Cream",
+      [
+        -73.9482609,
+        40.6408271
+      ]
+    ],
+    [
+      "Carvel Ice Cream",
+      [
+        -73.7032601,
+        40.7386417
+      ]
+    ],
+    [
+      "Carvel Ice Cream",
+      [
+        -73.97822040000001,
+        40.6435254
+      ]
+    ],
+    [
+      "Carvel Ice Cream",
+      [
+        -73.84856870000002,
+        40.8903781
+      ]
+    ],
+    [
+      "Carvel Ice Cream",
+      [
+        -74.0796436,
+        40.59878339999999
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Thai",
+  "top_restaurants": [
+    [
+      "Pongsri Thai Restaurant",
+      [
+        -73.9865289,
+        40.7606981
+      ]
+    ],
+    [
+      "Jaiya Thai Oriental Restaurant",
+      [
+        -73.9809909,
+        40.7422324
+      ]
+    ],
+    [
+      "Topaz Thai Restaurant",
+      [
+        -73.978911,
+        40.764421
+      ]
+    ],
+    [
+      "Arharn Thai Cuisine",
+      [
+        -73.9243079,
+        40.7565289
+      ]
+    ],
+    [
+      "Bangkok Grand Palace",
+      [
+        -73.966044,
+        40.7536346
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Tex-Mex",
+  "top_restaurants": [
+    [
+      "Baby Bo'S Burritos",
+      [
+        -73.97598099999999,
+        40.745132
+      ]
+    ],
+    [
+      "Burrito Loco",
+      [
+        -74.0015608,
+        40.7319387
+      ]
+    ],
+    [
+      "Tortilla Flats",
+      [
+        -74.0079669,
+        40.737446
+      ]
+    ],
+    [
+      "Santa Fe Grill & Bar",
+      [
+        -73.974896,
+        40.675678
+      ]
+    ],
+    [
+      "Bennys Burritos",
+      [
+        -74.00148399999999,
+        40.7371583
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Hotdogs",
+  "top_restaurants": [
+    [
+      "Gray'S Papaya",
+      [
+        -73.98185529999999,
+        40.7782266
+      ]
+    ],
+    [
+      "Nathan'S Famous",
+      [
+        -73.99099149999999,
+        40.7499318
+      ]
+    ],
+    [
+      "Madame Tussaud'S",
+      [
+        -73.9886598,
+        40.7565811
+      ]
+    ],
+    [
+      "Nathan'S Famous",
+      [
+        -73.992255,
+        40.749712
+      ]
+    ],
+    [
+      "Fulton Hot Dog King",
+      [
+        -73.98433,
+        40.689988
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Filipino",
+  "top_restaurants": [
+    [
+      "Renee'S Kitchenette",
+      [
+        -73.89565,
+        40.746155
+      ]
+    ],
+    [
+      "Krystal Pastry Shop",
+      [
+        -73.89609899999999,
+        40.746136
+      ]
+    ],
+    [
+      "Ihawan",
+      [
+        -73.8955507,
+        40.7460993
+      ]
+    ],
+    [
+      "Manny'S Bakery & Restaurant",
+      [
+        -73.80571239999999,
+        40.7207932
+      ]
+    ],
+    [
+      "Krystal'S Cafe 81",
+      [
+        -73.98612,
+        40.727385
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Afghan",
+  "top_restaurants": [
+    [
+      "Afghan Kebab House",
+      [
+        -73.959249,
+        40.768076
+      ]
+    ],
+    [
+      "Khyber Pass",
+      [
+        -73.9883612,
+        40.7286391
+      ]
+    ],
+    [
+      "Afghan Kebab House #1",
+      [
+        -73.9880435,
+        40.7641423
+      ]
+    ],
+    [
+      "Ariana Kebab House",
+      [
+        -73.9880886,
+        40.7651331
+      ]
+    ],
+    [
+      "Afghan Kebob House",
+      [
+        -73.708831,
+        40.73748399999999
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Indonesian",
+  "top_restaurants": [
+    [
+      "Java Restaurant",
+      [
+        -73.98475669999999,
+        40.6626618
+      ]
+    ],
+    [
+      "Bali Nusa Indonesian Restaurant",
+      [
+        -73.9912525,
+        40.7607556
+      ]
+    ],
+    [
+      "Java Village",
+      [
+        -73.87680619999999,
+        40.7379944
+      ]
+    ],
+    [
+      "Selamat Pagi",
+      [
+        -73.9446356,
+        40.7232395
+      ]
+    ],
+    [
+      "Asian Taste 86",
+      [
+        -73.878623,
+        40.741756
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Tapas",
+  "top_restaurants": [
+    [
+      "Kana Tapas Bar & Restaurant",
+      [
+        -74.0094183,
+        40.7258678
+      ]
+    ],
+    [
+      "Cafe Ronda",
+      [
+        -73.9788067,
+        40.7769826
+      ]
+    ],
+    [
+      "El Boqueron Tapas Bar & Restaurant",
+      [
+        -73.926895,
+        40.759758
+      ]
+    ],
+    [
+      "Verlaine",
+      [
+        -73.987785,
+        40.720079
+      ]
+    ],
+    [
+      "Casa Mono/Bar Jamon (Next Door)",
+      [
+        -73.9871361,
+        40.7358936
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Ethiopian",
+  "top_restaurants": [
+    [
+      "Masawa",
+      [
+        -73.9585846,
+        40.8097806
+      ]
+    ],
+    [
+      "Meskerem",
+      [
+        -74.00024599999999,
+        40.729905
+      ]
+    ],
+    [
+      "Queen Of Sheba Ethiopian Restaurant",
+      [
+        -73.99346299999999,
+        40.761925
+      ]
+    ],
+    [
+      "Awash Ethiopian Restaurant",
+      [
+        -73.9868924,
+        40.7264833
+      ]
+    ],
+    [
+      "Zoma",
+      [
+        -73.9565946,
+        40.8022824
+      ]
+    ]
+  ]
+},
+{
+  "_id": "CafÃ©/Coffee/Tea",
+  "top_restaurants": [
+    [
+      "Mike'S Coffee Shop",
+      [
+        -73.982968,
+        40.745815
+      ]
+    ],
+    [
+      "Aziza'S Cafe & Lounge",
+      [
+        -73.98795989999999,
+        40.7244258
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Japanese",
+  "top_restaurants": [
+    [
+      "Hatsuhana Restaurant",
+      [
+        -73.97691499999999,
+        40.757028
+      ]
+    ],
+    [
+      "Nada-Sushi",
+      [
+        -73.9717,
+        40.756457
+      ]
+    ],
+    [
+      "Dan Tempura",
+      [
+        -73.9818416,
+        40.7760336
+      ]
+    ],
+    [
+      "Tokubei 86",
+      [
+        -73.951172,
+        40.7773139
+      ]
+    ],
+    [
+      "Shabu-Shabu 70 Restaurant",
+      [
+        -73.958529,
+        40.766908
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Soups & Sandwiches",
+  "top_restaurants": [
+    [
+      "Hale & Hearty Soups",
+      [
+        -74.00489689999999,
+        40.7419343
+      ]
+    ],
+    [
+      "Hale & Hearty Soups",
+      [
+        -73.97709689999999,
+        40.7632476
+      ]
+    ],
+    [
+      "Hale & Hearty Soups",
+      [
+        -73.9836866,
+        40.7550567
+      ]
+    ],
+    [
+      "Hale & Hearty Soups",
+      [
+        -73.99025309999999,
+        40.7519294
+      ]
+    ],
+    [
+      "Hale & Hearty Soups",
+      [
+        -73.9909732,
+        40.692922
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Bottled beverages, including water, sodas, juices, etc.",
+  "top_restaurants": [
+    [
+      "Montero Bar & Grill",
+      [
+        -73.9979536,
+        40.6914024
+      ]
+    ],
+    [
+      "Friend'S Tavern",
+      [
+        -73.88704919999999,
+        40.747519
+      ]
+    ],
+    [
+      "Alfonso'S Bar",
+      [
+        -73.8849036,
+        40.74391230000001
+      ]
+    ],
+    [
+      "Roys Rest & Sports Bar",
+      [
+        -73.8310765,
+        40.6849728
+      ]
+    ],
+    [
+      "Paddy Maguire'S Ale House",
+      [
+        -73.984409,
+        40.736611
+      ]
+    ]
+  ]
+},
+{
+  "_id": "Polynesian",
+  "top_restaurants": [
+    [
+      "Camaradas El Barrio",
+      [
+        -73.936071,
+        40.7955789
+      ]
+    ]
+  ]
+}]
